@@ -1,0 +1,2 @@
+A first line in the file
+A second line in the same file.
